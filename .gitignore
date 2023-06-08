@@ -1,7 +1,4 @@
 
 *.ini
 *.log
-MyProject4/Content/__ExternalActors__/*
-MyProject4/Content/__ExternalObjects__/*
-MyProject4/Content/Characters/Mannequin_UE4/*
-MyProject4/Content/Characters/Mannequins/*
+MyProject4/Content/*
