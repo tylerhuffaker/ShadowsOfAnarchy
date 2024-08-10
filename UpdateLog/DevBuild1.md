@@ -1,4 +1,4 @@
-# Shadows of Anarchy - Development Build 1 Release Notes
+# Shadows of Anarchy - Development Build 1 (0.0.0.1) Release Notes
 
 ## Release Date: August 11, 2024
 
