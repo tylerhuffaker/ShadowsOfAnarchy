@@ -1,5 +1,5 @@
 
-![Static Badge](https://img.shields.io/badge/Shadows_of_Anarchy-development-pink)
+![Static Badge](https://img.shields.io/badge/Shadows_of_Anarchy-DEVBUILD-red)
 
 
 # ShadowsOfAnarchy
