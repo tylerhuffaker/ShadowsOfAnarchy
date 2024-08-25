@@ -6,7 +6,7 @@
 - **Engine**: Unreal Engine 5
 - **Platforms**: Epic Games Store, Xbox Possibly on GamePass
 - **Release Date**: TBD
-- **Development Builds**: All dev builds prior to alpha will be free and public
+- **Development Builds**: All dev builds prior to alpha will be free and released upon request.
 
 ## Game Overview
 "Shadows of Anarchy" is an upcoming action-adventure game that immerses players in a dark and chaotic world. Players will navigate through intricate storylines, engage in intense combat, and explore a vast detailed environment.
